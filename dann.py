@@ -2,7 +2,7 @@ from __future__ import print_function, division
 from keras import layers
 from keras.layers import Input
 from keras.models import Model
-from keras.engine.network import Network
+
 from keras.preprocessing import image
 from keras.optimizers import Adam, SGD
 import tqdm
